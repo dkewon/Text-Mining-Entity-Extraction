@@ -28,5 +28,7 @@ In order to have a better understanding of current job market in the data analyt
 
 **The script is also explained on [Medium](https://medium.com/@deborahkewon/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de)**
 
+**The shiny app is available [here](https://manju.shinyapps.io/shinyapp/)**
+
 
 ![alt text](https://miro.medium.com/max/1400/1*8BTafMapUC9giH2I5-iOfQ.png)
